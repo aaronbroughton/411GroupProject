@@ -1,14 +1,14 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="faar.com" resolutions="1x" timestamp="1493482745528">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="faar.com" resolutions="1x" timestamp="1493606229128">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_front_page.css" crc="4111822127" ref="products:sneakers:index:cart:confirmation:boots:dress_shoes"/>
     <file name="products.css" crc="3934783790" ref="products"/>
-    <file name="sneakers.css" crc="4009178514" ref="sneakers"/>
+    <file name="sneakers.css" crc="3994870928" ref="sneakers"/>
     <file name="index.css" crc="277393206" ref="index"/>
     <file name="cart.css" crc="4082564853" ref="cart"/>
     <file name="confirmation.css" crc="3799769882" ref="confirmation"/>
-    <file name="boots.css" crc="108359163" ref="boots"/>
-    <file name="dress_shoes.css" crc="426162325" ref="dress_shoes"/>
+    <file name="boots.css" crc="510568056" ref="boots"/>
+    <file name="dress_shoes.css" crc="4228880580" ref="dress_shoes"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:products:boots:cart:sneakers:dress_shoes:confirmation"/>
@@ -21,17 +21,18 @@
     <file name="require.js" crc="4234670167" ref="index:products:boots:cart:sneakers:dress_shoes:confirmation"/>
   </folder>
   <folder name="images">
-    <file name="arrowmenudown.png" crc="262559161" ref="index">
+    <file name="arrowmenudown.png" crc="262559161" ref="index:boots">
       <caption webpage="index" alt=""/>
+      <caption webpage="boots" alt=""/>
     </file>
     <file name="faar.jpg" crc="171566647" seo="true" ref="index:products:boots:cart:sneakers:dress_shoes:confirmation">
-      <caption webpage="sneakers" alt=""/>
-      <caption webpage="confirmation" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="dress_shoes" alt=""/>
       <caption webpage="products" alt=""/>
       <caption webpage="cart" alt=""/>
+      <caption webpage="confirmation" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="boots" alt=""/>
+      <caption webpage="sneakers" alt=""/>
+      <caption webpage="dress_shoes" alt=""/>
     </file>
     <file name="boots.jpg" crc="301504345" seo="true" ref="products">
       <caption webpage="products" alt=""/>
@@ -45,9 +46,9 @@
   </folder>
   <file name="index.html" crc="318316310" seo="true" mt="1493481042896" redirect="true"/>
   <file name="products.html" crc="46424941" seo="true" mt="1493480950997" redirect="true"/>
-  <file name="boots.html" crc="4106024262" seo="true" mt="1493480950997" redirect="true"/>
+  <file name="boots.html" crc="4134366475" seo="true" mt="1493606070614" redirect="true"/>
   <file name="cart.html" crc="4266807782" seo="true" mt="1493480950997" redirect="true"/>
-  <file name="sneakers.html" crc="465917446" seo="true" mt="1493480950997" redirect="true"/>
-  <file name="dress_shoes.html" crc="3974266895" seo="true" mt="1493480950997" redirect="true"/>
+  <file name="sneakers.html" crc="3952361718" seo="true" mt="1493606189897" redirect="true"/>
+  <file name="dress_shoes.html" crc="4065101369" seo="true" mt="1493606209854" redirect="true"/>
   <file name="confirmation.html" crc="375746982" seo="true" mt="1493480951036" redirect="true"/>
 </manifest>
