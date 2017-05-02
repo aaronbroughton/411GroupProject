@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://faar.com/index.html</loc>
-    <lastmod>2017-04-29</lastmod>
+    <lastmod>2017-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -11,25 +11,7 @@
   </url>
   <url>
     <loc>http://faar.com/products.html</loc>
-    <lastmod>2017-04-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://faar.com/images/faar.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://faar.com/images/boots.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://faar.com/images/sneakers.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://faar.com/images/dressshoes.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://faar.com/boots.html</loc>
-    <lastmod>2017-04-30</lastmod>
+    <lastmod>2017-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -38,25 +20,7 @@
   </url>
   <url>
     <loc>http://faar.com/cart.html</loc>
-    <lastmod>2017-04-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://faar.com/images/faar.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://faar.com/sneakers.html</loc>
-    <lastmod>2017-04-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://faar.com/images/faar.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://faar.com/dress_shoes.html</loc>
-    <lastmod>2017-04-30</lastmod>
+    <lastmod>2017-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -65,7 +29,7 @@
   </url>
   <url>
     <loc>http://faar.com/confirmation.html</loc>
-    <lastmod>2017-04-29</lastmod>
+    <lastmod>2017-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>

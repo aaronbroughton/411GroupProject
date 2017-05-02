@@ -1,55 +1,40 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="faar.com" resolutions="1x" timestamp="1493609070852">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="faar.com" resolutions="1x" timestamp="1493746442044">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_front_page.css" crc="4111822127" ref="products:sneakers:index:cart:confirmation:boots:dress_shoes"/>
-    <file name="products.css" crc="3859998389" ref="products"/>
-    <file name="sneakers.css" crc="3994870928" ref="sneakers"/>
-    <file name="index.css" crc="277393206" ref="index"/>
+    <file name="master_front_page.css" crc="4111822127" ref="products:index:cart:confirmation"/>
+    <file name="products.css" crc="4075535276" ref="products"/>
+    <file name="index.css" crc="427867794" ref="index"/>
     <file name="cart.css" crc="4082564853" ref="cart"/>
     <file name="confirmation.css" crc="3799769882" ref="confirmation"/>
-    <file name="boots.css" crc="510568056" ref="boots"/>
-    <file name="dress_shoes.css" crc="4228880580" ref="dress_shoes"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:products:boots:cart:sneakers:dress_shoes:confirmation"/>
-    <file name="museutils.js" crc="4232573551" ref="index:products:boots:cart:sneakers:dress_shoes:confirmation"/>
-    <file name="whatinput.js" crc="86476730" ref="index:products:boots:cart:sneakers:dress_shoes:confirmation"/>
-    <file name="museconfig.js" crc="4152223963" ref="index:products:boots:cart:sneakers:dress_shoes:confirmation"/>
-    <file name="jquery.musemenu.js" crc="38860304" ref="index:products:boots:cart:sneakers:dress_shoes:confirmation"/>
-    <file name="jquery.watch.js" crc="3844535323" ref="index:products:boots:cart:sneakers:dress_shoes:confirmation"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:products:boots:cart:sneakers:dress_shoes:confirmation"/>
-    <file name="require.js" crc="4234670167" ref="index:products:boots:cart:sneakers:dress_shoes:confirmation"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:products:cart:confirmation"/>
+    <file name="museutils.js" crc="4232573551" ref="index:products:cart:confirmation"/>
+    <file name="whatinput.js" crc="86476730" ref="index:products:cart:confirmation"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:products:cart:confirmation"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:products:cart:confirmation"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:products:cart:confirmation"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:products:cart:confirmation"/>
+    <file name="require.js" crc="4234670167" ref="index:products:cart:confirmation"/>
   </folder>
   <folder name="images">
-    <file name="arrowmenudown.png" crc="262559161" ref="index:boots:products">
+    <file name="arrowmenudown.png" crc="262559161" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="boots" alt=""/>
       <caption webpage="products" alt=""/>
-    </file>
-    <file name="faar.jpg" crc="171566647" seo="true" ref="index:products:boots:cart:sneakers:dress_shoes:confirmation">
       <caption webpage="boots" alt=""/>
+    </file>
+    <file name="faar.jpg" crc="171566647" seo="true" ref="index:products:cart:confirmation">
+      <caption webpage="cart" alt=""/>
       <caption webpage="confirmation" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="boots" alt=""/>
       <caption webpage="sneakers" alt=""/>
       <caption webpage="products" alt=""/>
       <caption webpage="dress_shoes" alt=""/>
-      <caption webpage="cart" alt=""/>
-    </file>
-    <file name="boots.jpg" crc="301504345" seo="true" ref="products">
-      <caption webpage="products" alt=""/>
-    </file>
-    <file name="sneakers.jpg" crc="3913768600" seo="true" ref="products">
-      <caption webpage="products" alt=""/>
-    </file>
-    <file name="dressshoes.jpg" crc="63573500" seo="true" ref="products">
-      <caption webpage="products" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="318316310" seo="true" mt="1493481042896" redirect="true"/>
-  <file name="products.html" crc="3879418084" seo="true" mt="1493609062568" redirect="true"/>
-  <file name="boots.html" crc="4134366475" seo="true" mt="1493606070614" redirect="true"/>
-  <file name="cart.html" crc="4266807782" seo="true" mt="1493480950997" redirect="true"/>
-  <file name="sneakers.html" crc="3952361718" seo="true" mt="1493606189897" redirect="true"/>
-  <file name="dress_shoes.html" crc="4065101369" seo="true" mt="1493606209854" redirect="true"/>
-  <file name="confirmation.html" crc="375746982" seo="true" mt="1493480951036" redirect="true"/>
+  <file name="index.html" crc="253990931" seo="true" mt="1493746429981" redirect="true"/>
+  <file name="products.html" crc="3871206017" seo="true" mt="1493746383004" redirect="true"/>
+  <file name="cart.html" crc="4266807782" seo="true" mt="1493745567592" redirect="true"/>
+  <file name="confirmation.html" crc="375746982" seo="true" mt="1493745567592" redirect="true"/>
 </manifest>
